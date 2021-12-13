@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+}
+
+#bootstrap-overrides {
+    font-family: "Times New Roman", serif;
+    color: #1a1e21;
+}
